@@ -11,6 +11,8 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/TanyaChhikara/TanyaChhikara/main/banner2.png" alt="cover" />
 </div>
