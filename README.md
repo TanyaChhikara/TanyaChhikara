@@ -1,9 +1,9 @@
-<div align="center">
+<!--div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/TanyaChhikara/TanyaChhikara/main/banner2.png" alt="cover" />
-</div>
+</div-->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" height ="300" />
 </div>
 
 <h1> Hey There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
