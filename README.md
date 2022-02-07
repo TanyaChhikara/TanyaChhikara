@@ -54,6 +54,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
