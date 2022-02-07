@@ -1,7 +1,10 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/TanyaChhikara/TanyaChhikara/main/banner2.png" alt="cover" />
 </div>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA">via GIPHY</a></p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h1> Hey There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
