@@ -56,12 +56,14 @@
 <a href = 'https://twitter.com/TanyaChhikara'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/#79586394'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
+<div align="center">
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=tokyonight&align=centre)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanyaChhikara&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
