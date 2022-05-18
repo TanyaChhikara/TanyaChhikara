@@ -29,13 +29,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h4>
 
-- ✨I am currently working on Web Development and Competitive Programming
+- ✨I am working on Web Development and Machine Learning
 
 - 🧡I am currently learning Data Structures and Algorithms
 
-- 🔥I am looking to collaborate on Projects, Hackathons
-
-- 😀Talk to me about Programming, Competitive Programming, DSA, Artificial Intelligence, Machine Learning 
+- 🔥Fun Fact about me : Probably enjoying tea with headphones on!
   </h4>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 44px> </h2>
