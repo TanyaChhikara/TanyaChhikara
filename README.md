@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif" width="300" height ="300" />
+  <img src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif" width="400" height ="400" />
 </div>
 
 <div id="badges" align="center">
@@ -13,9 +13,9 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/TanyaChhikara/TanyaChhikara/main/banner2.png" alt="cover" />
-</div>
+</div> -->
 
 <h1> Hey There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
