@@ -1,12 +1,3 @@
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tanyachhikara24/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/TanyaChhikara">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <!-- <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/TanyaChhikara/TanyaChhikara/main/banner2.png" alt="cover" />
 </div> -->
@@ -14,7 +5,8 @@
 <h1> Hey There! My name is Tanya. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px , width = 30px> </h1>
 <!-- <h2> About Me </h2> -->
 
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+
+<img height="30%" width="45%" align="right" alt="Github" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/github_gif.jpg" />
 <h4>
 <ul>
 <li> ✨I am working on Web Development and Machine Learning
@@ -44,3 +36,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TanyaChhikara&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> </a>
+  
+ <h2> Connect with Me </h2>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tanyachhikara24/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/TanyaChhikara">
+    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://twitter.com/TanyaChhikara">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
