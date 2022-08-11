@@ -6,7 +6,7 @@
 <!-- <h2> About Me </h2> -->
 
 
-<img height="30%" width="45%" align="right" alt="Github" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/github_gif.jpg" />
+<img height="25%" width="35%" align="right" alt="Github" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/github_gif.jpg" />
 <h4>
 <ul>
 <li> ✨I am working on Web Development and Machine Learning
