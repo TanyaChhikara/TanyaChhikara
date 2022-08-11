@@ -1,7 +1,3 @@
-
-<div id="header" align="center">
-  <img src="for_github.png" />
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tanyachhikara24/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,29 +7,21 @@
   </a>
 </div>
 
-<br>
-
 <!-- <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/TanyaChhikara/TanyaChhikara/main/banner2.png" alt="cover" />
 </div> -->
 
-<h1> Hey There!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px , width = 30px> </h1>
-<p align='center'>
+<h1> Hey There! My name is Tanya. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px , width = 30px> </h1>
+<!-- <h2> About Me </h2> -->
 
-</p>
-<div size='40px'> <h3> Hi! My name is Tanya. Thank You for taking the time to view my GitHub Profile :)  </h3>
-</div>
-
-<h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <h4>
+<ul>
+<li> ✨I am working on Web Development and Machine Learning
 
-✨I am working on Web Development and Machine Learning
+<li> 🧡I am currently learning Data Structures and Algorithms
 
-🧡I am currently learning Data Structures and Algorithms
-
-🔥Fun Fact about me : Probably enjoying tea with headphones on!
+<li> 🔥Fun Fact about me : My biggest adrenaline rush is watching horror movies!
   </h4>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px  width = 30px> </h2>
