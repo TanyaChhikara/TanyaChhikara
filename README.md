@@ -38,7 +38,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TanyaChhikara&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> </a>
   
  <h2> Connect with Me </h2>
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/tanyachhikara24/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
