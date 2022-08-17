@@ -45,7 +45,7 @@
   <a href="https://twitter.com/TanyaChhikara">
     <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://twitter.com/TanyaChhikara">
+  <a href="mailto:tanyachhikara24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
