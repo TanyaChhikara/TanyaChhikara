@@ -1,51 +1,24 @@
-<!-- <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/TanyaChhikara/TanyaChhikara/main/banner2.png" alt="cover" />
-</div> -->
+<h1 align="center">Hi 👋, I'm Tanya!</h1>
+<h3 align="center">3rd year CSAI undergrad at IGDTUW</h3>
 
-<h1> Hey There! My name is Tanya. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px , width = 30px> </h1>
-<!-- <h2> About Me </h2> -->
+- 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning**
+
+- 💬 Ask me about **DSA, Cyber Security, Machine Learning and Deep Learning**
+
+- 📫 How to reach me **tanyachhikara24@gmail.com**
+
+- ⚡ Fun fact: **My biggest adrenaline rush is watching horror movies!**
 
 
-<img height="25%" width="35%" align="right" alt="Github" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/github_gif.jpg" />
-<h4>
-<ul>
-<li> ✨I am working on Web Development and Machine Learning
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tanyachhikara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanyachhikara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanyachhikara24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanyachhikara24/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/tanyachhikara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tanyachhikara" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/ch_tanya2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ch_tanya2002" height="30" width="40" /></a>
+</p>
 
-<li> 🧡I am currently learning Data Structures and Algorithms
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<li> 🔥Fun Fact about me : My biggest adrenaline rush is watching horror movies!
-  </h4>
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px  width = 30px> </h2>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=php&sort= > <img width ='44x' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=azure&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=c&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=cpp&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=python&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=mysql&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=css&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=html&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=javascript&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/#79586394?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height = 30px width='30px'> </h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=radical)
-<a href="https://github.com/anuraghazra/convoychat">
-<br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br> -->
-  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=TanyaChhikara&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> </a>  -->
-  
- <h2> Connect with Me </h2>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/tanyachhikara24/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/TanyaChhikara">
-    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:tanyachhikara24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyachhikara&show_icons=true&locale=en" alt="tanyachhikara" /></p>
