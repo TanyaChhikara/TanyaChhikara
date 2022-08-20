@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanya!</h1>
-<h3 align="center">3rd year CSAI undergrad at IGDTUW</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning**
 
