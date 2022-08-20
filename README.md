@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanya!</h1>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **DSA, Cyber Security, Machine Learning and Deep Learning**
 
-- 📫 How to reach me **tanyachhikara24@gmail.com**
+- 📫 Reach me at **tanyachhikara24@gmail.com**
 
 - ⚡ Fun fact: **My biggest adrenaline rush is watching horror movies!**
 
