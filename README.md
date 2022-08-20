@@ -33,9 +33,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=radical)
 <a href="https://github.com/anuraghazra/convoychat">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=TanyaChhikara&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> </a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br> -->
+  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=TanyaChhikara&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> </a>  -->
   
  <h2> Connect with Me </h2>
 <div id="badges">
