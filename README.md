@@ -2,11 +2,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **DSA, Cyber Security, Machine Learning and Deep Learning**
-
 - 📫 Reach me at **tanyachhikara24@gmail.com**
-
-- ⚡ Fun fact: **My biggest adrenaline rush is watching horror movies!**
 
 
 <h3 align="left">Connect with me:</h3>
