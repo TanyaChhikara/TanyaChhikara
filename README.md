@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanya!</h1>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
+- 🌱 Practicing **Data Structures and Algorithms**
+- 💻 Interested in Artificial Intelligence
+- 📝 Building projects in *Machine Learning*
 - 📫 Reach me at **tanyachhikara24@gmail.com**
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyachhikara" alt="tanyachhikara" /></a> </p>
-
 
 <h3 align="left"> :envelope_with_arrow: Connect with me</h3>
 <div id="badges">
@@ -20,12 +17,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,html,css,cpp,flask,git,github,mysql,php,pytorch,selenium,tensorflow,vscode,r,python,gcp&theme=light)](https://skillicons.dev)
 
-
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyachhikara&show_icons=true&locale=en&layout=compact" alt="tanyachhikara" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyachhikara&show_icons=true&locale=en" alt="tanyachhikara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyachhikara&" alt="tanyachhikara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyachhikara&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="tanyachhikara" /></p>
+</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyachhikara&show_icons=true&locale=en&theme=nightowl" alt="tanyachhikara" /></p>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyachhikara&theme=nightowl" alt="tanyachhikara" /></p>
