@@ -21,5 +21,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyachhikara&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="tanyachhikara" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyachhikara&show_icons=true&locale=en&theme=nightowl" alt="tanyachhikara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyachhikara&show_icons=true&locale=en&theme=nightowl" alt="tanyachhikara" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyachhikara&theme=nightowl" alt="tanyachhikara" /></p>
