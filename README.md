@@ -18,9 +18,3 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bootstrap,html,css,cpp,flask,git,github,mysql,php,pytorch,selenium,tensorflow,vscode,r,python,gcp&theme=light)](https://skillicons.dev)
 
 <p align="left">
-</p>
-<div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyachhikara&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="tanyachhikara" height="175" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyachhikara&show_icons=true&locale=en&theme=nightowl" alt="tanyachhikara" height="175"/> </p>
- </div>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyachhikara&theme=nightowl" alt="tanyachhikara" /></p> -->
