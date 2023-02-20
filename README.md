@@ -17,8 +17,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bootstrap,html,css,cpp,flask,git,github,mysql,php,pytorch,selenium,tensorflow,vscode,r,python,gcp&theme=light)](https://skillicons.dev)
 
-<h2 > </h2>
-
-![](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&theme=dracula&count_private=true)
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=dracula&layout=compact)
