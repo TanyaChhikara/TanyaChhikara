@@ -13,8 +13,12 @@
   <a href="mailto:tanyachhikara24@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<h3 align="left">:anchor:  Languages and Tools</h3>
+<h3 align="left">:anchor:  Languages and Tools </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bootstrap,html,css,cpp,flask,git,github,mysql,php,pytorch,selenium,tensorflow,vscode,r,python,gcp&theme=light)](https://skillicons.dev)
 
-<p align="left">
+<h2 > </h2>
+
+![](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&theme=dracula)
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=dracula&layout=compact)
