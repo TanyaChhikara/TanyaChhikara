@@ -1,22 +1,41 @@
-<h1 align="center">Hi 👋, I'm Tanya!</h1>
+## 💫 About Me:
+🌱 Improving my problem solving, Data Structures and Algorithms skills
+<br>
+💬 Ask me about Python, Machine Learning 
+<br>
+📫 Reach out to me at tanyachhikara24@gmail.com<br>
+<!-- 💫 Currently exploring blockchain
+<br> -->
 
-- 🌱 Practicing **Data Structures and Algorithms**
-- 💻 Interested in Artificial Intelligence
-- 📝 Building projects in *Machine Learning*
-- 📫 Reach me at **tanyachhikara24@gmail.com**
+## 🌐 Socials:  
+<a href="https://github.com/TanyaChhikara" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/tanyachhikara24" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/tanya_chhikara" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/tanyachhikara" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+  
 
-<h3 align="left"> :envelope_with_arrow: Connect with me</h3>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/tanyachhikara24/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:tanyachhikara24@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<h3 align="left">:anchor:  Languages and Tools </h3>
+## 📊 Github Stats:  
+<table><tr> <td valign="middle" width="50%">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bootstrap,html,css,cpp,flask,git,github,mysql,php,pytorch,selenium,tensorflow,vscode,r,python,gcp&theme=light)](https://skillicons.dev)
+<img src="https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
 
-![](https://github-readme-stats.vercel.app/api?username=TanyaChhikara&theme=dracula&count_private=true)
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&theme=dracula&layout=compact)
+<!-- </td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" /> -->
+  
+</td><td valign="middle" width="50%">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanyaChhikara&theme=dracula&hide_border=false" align="left" style="width: 100%" />
+
+</td></tr></table> 
