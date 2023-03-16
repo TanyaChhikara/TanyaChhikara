@@ -25,7 +25,7 @@
 ## 📊 Github Stats:  
 <table><tr> <td valign="middle" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dracula&hide=stars" align="left" style="width: 130%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dracula&hide=stars" align="left" style="width: 130%" />
   
 </td><td valign="middle" width="50%">
   
@@ -37,4 +37,5 @@
  -->
 </td></tr></table> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dracula&display_animations=true&langs_count=10" align="middle" style="width: 35%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dracula&display_animations=true&langs_count=10" align="middle" style="width: 35%" />
+
