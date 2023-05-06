@@ -12,7 +12,7 @@
 - 💬 I love to **design posters and listening to music**<br>
 - 📫 Reach out to me at tanyachhikara24@gmail.com<br>
 - 📝 Read my blogs here : <a href ="https://zepanalytics.com/blogs/a-guide-to-web-scraping-an-example-hindi-news-website"> A guide to Web Scraping </a>
-- ⚡ Fun fact **I play guitar :)**
+- ⚡ Fun fact : **I can vibe to sad songs :)**
 <!-- 💫 Currently exploring blockchain
 <br> -->
 <!-- ## 🌐 Socials:  
