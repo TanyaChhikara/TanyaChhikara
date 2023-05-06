@@ -39,3 +39,4 @@
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dracula&display_animations=true&langs_count=10" align="middle" style="width: 35%" />
 
+![](https://komarev.com/ghpvc/?username=TanyaChhikara)
