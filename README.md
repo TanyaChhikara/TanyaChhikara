@@ -32,8 +32,9 @@
 
 ### 📊 Github Stats
 <div>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dracula" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dracula&display_animations=true&langs_count=10" width = "315"/>
+<img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
+<img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dark&display_animations=true&langs_count=10" width = "315"/>
+ <img src = "https://streak-stats.demolab.com/?user=TanyaChhikara&theme=dark" width = "495" >
 </div>
 
 ![](https://komarev.com/ghpvc/?username=TanyaChhikara)
