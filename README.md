@@ -37,7 +37,7 @@
 </div>
 <div align = "center">
 <img align="center" src = "https://streak-stats.demolab.com/?user=TanyaChhikara&theme=dark" width = "495" >
-  <br>
+  <br> <br>
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
   </div>
 <!-- ![](https://komarev.com/ghpvc/?username=TanyaChhikara) -->
