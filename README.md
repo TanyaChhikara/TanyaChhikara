@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tanya Chhikara</h1>
 </div>
 <p align="center">
-  <img width="460" height="300" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/lottie-000_1_1.gif">
+  <img width="700" height="500" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/lottie-000_1_1.gif">
 </p>
 
 
