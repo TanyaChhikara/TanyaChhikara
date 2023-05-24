@@ -37,8 +37,8 @@
 <img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dark&display_animations=true&langs_count=10" width = "315"/>
 </div>
 <div align = "center">
-<img align="center" src = "https://streak-stats.demolab.com/?user=TanyaChhikara&theme=dark" width = "495" >
-  <br> <br>
+<!-- <img align="center" src = "https://streak-stats.demolab.com/?user=TanyaChhikara&theme=dark" width = "495" >
+  <br> <br> -->
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
   </div>
 <!-- ![](https://komarev.com/ghpvc/?username=TanyaChhikara) -->
