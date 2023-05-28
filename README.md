@@ -33,6 +33,7 @@
 
 ### 📊 Github Stats
 <div>
+<!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" /> -->
 <img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
 <img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dark&display_animations=true&langs_count=10" width = "315"/>
 </div>
