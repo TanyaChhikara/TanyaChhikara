@@ -6,7 +6,6 @@
   <img width="700" height="500" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/lottie-000_1_1.gif">
 </p>
 
-
 ### 💫About Me
 - 🌱 I am practising **problem solving, Data Structures and Algorithms** <br>
 - 💬 I love to **design posters and listening to music**<br>
@@ -35,8 +34,10 @@
 ### 📊 Github Stats
 <div>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=8&theme=dark&display_animations=true&langs_count=10" width = "355"/>
+
+  
 <!-- <img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" /> -->
-<img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&theme=dark&display_animations=true&langs_count=10" width = "315"/>
 </div>
 <!-- <div align = "center">
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> --> 
