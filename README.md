@@ -18,9 +18,7 @@
 </div>
 
 </div>
-
----
-
+<!--
 ### 📌 Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
@@ -34,23 +32,15 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://icongr.am/simple/canva.svg?size=128&color=17bee8&colored=false" alt="canva" width="40" height="40"/></a>
 </p>
-
----
+-->
 
 ### 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-
-<div style="flex: 1; min-width: 300px; margin-right: 10px;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" width="400px">
-</div>
-
-<div style="flex: 1; min-width: 250px;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=10&theme=dark" width="355px">
-</div>
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/TanyaChhikara">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;">
+  </a>
+</p>
 
 ### 🌐 Connect with Me
 <p>
