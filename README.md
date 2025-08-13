@@ -35,6 +35,7 @@
 <div>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=8&theme=dark&display_animations=true&langs_count=10" width = "355"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TanyaChhikara&theme=dark" alt="GitHub Streak" /></a>
 
   
 <!-- <img src="https://github-readme-stats-7fdcrjeu8-tanyachhikara.vercel.app/api?username=TanyaChhikara&show_icons=true&count_private=true&theme=dark&include_all_commits=true" /> -->
