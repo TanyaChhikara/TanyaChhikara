@@ -29,11 +29,11 @@
 <img src="./assets/s03.svg" alt="03 — telemetry" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=7ee787&border_color=30363d" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=6&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=30363d" alt="Top languages" height="165" />
+  <a href="https://github.com/TanyaChhikara">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;">
+  </a>
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanyaChhikara&bg_color=0d1117&color=8b949e&line=7ee787&point=e6edf3&area=true&area_color=7ee787&hide_border=true&radius=8&custom_title=CONTRIBUTION%20TELEMETRY" alt="Contribution graph" width="100%" />
 
 <br /><br />
 
