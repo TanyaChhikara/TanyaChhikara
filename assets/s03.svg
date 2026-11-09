@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="56" viewBox="0 0 840 56"><style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .fade { }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+  @keyframes pulse { 50% { opacity: .35; transform: scale(.7); } }
+</style><text x="2" y="34" font-size="15" font-weight="700" fill="#7ee787">03</text><text x="34" y="34" font-size="15" fill="#8b949e">—</text><text x="58" y="34" font-size="15" font-weight="700" fill="#e6edf3">telemetry</text><line x1="168" y1="29" x2="838" y2="29" stroke="#30363d"/></svg>

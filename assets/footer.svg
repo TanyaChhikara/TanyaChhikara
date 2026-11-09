@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64"><style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .fade { }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+  @keyframes pulse { 50% { opacity: .35; transform: scale(.7); } }
+</style><rect x="0.5" y="0.5" width="839" height="63" rx="10" fill="#0d1117" stroke="#30363d"/><circle cx="32" cy="32" r="5" fill="#7ee787" class="pulse"/><text x="48" y="37" font-size="13" fill="#e6edf3">currently: <tspan fill="#8b949e">building RAG &amp; LLM systems</tspan></text><text x="812" y="37" font-size="13" fill="#8b949e" text-anchor="end">bangalore · ist (utc+5:30)</text></svg>

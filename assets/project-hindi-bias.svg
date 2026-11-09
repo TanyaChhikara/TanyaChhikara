@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="190" viewBox="0 0 410 190"><style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .fade { }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+  @keyframes pulse { 50% { opacity: .35; transform: scale(.7); } }
+</style><rect x="0.5" y="0.5" width="409" height="189" rx="10" fill="#0d1117" stroke="#30363d"/><text x="24" y="42" font-size="18" font-weight="700" fill="#e6edf3">Hindi Media Bias</text><text x="386" y="42" font-size="18" fill="#8b949e" text-anchor="end">↗</text><text x="24" y="74" font-size="13" fill="#8b949e">NLP pipeline that detects social and</text><text x="24" y="94" font-size="13" fill="#8b949e">political bias in Hindi news articles.</text><rect x="24" y="142" width="39" height="24" rx="12" fill="none" stroke="#30363d"/><text x="43.5" y="158.5" font-size="11" fill="#7ee787" text-anchor="middle">NLP</text><rect x="71" y="142" width="60" height="24" rx="12" fill="none" stroke="#30363d"/><text x="101.0" y="158.5" font-size="11" fill="#7ee787" text-anchor="middle">Python</text></svg>

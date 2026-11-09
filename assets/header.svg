@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200"><style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .fade { }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+  @keyframes pulse { 50% { opacity: .35; transform: scale(.7); } }
+</style><rect x="0.5" y="0.5" width="839" height="199" rx="10" fill="#0d1117" stroke="#30363d"/><defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#30363d" stroke-width=".5" opacity=".6"/></pattern></defs><rect x="1" y="1" width="838" height="198" rx="10" fill="url(#g)"/>
+<text x="40" y="44" font-size="13" fill="#8b949e" class="fade">~/tanya-chhikara</text>
+<text x="40" y="104" font-size="44" font-weight="700" fill="#e6edf3" class="fade" style="animation-delay:.15s">Tanya Chhikara</text>
+<text x="40" y="142" font-size="18" fill="#8b949e" class="fade" style="animation-delay:.35s">AI/ML Engineer · Software Engineer @ Oracle<tspan fill="#7ee787" class="blink"> ▋</tspan></text>
+<text x="800" y="172" font-size="12" fill="#8b949e" text-anchor="end">bangalore, in</text>
+<circle cx="792" cy="40" r="5" fill="#7ee787" class="pulse"/>
+</svg>

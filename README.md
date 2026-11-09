@@ -1,50 +1,45 @@
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+<div align="center">
 
-<div style="flex: 1; min-width: 250px; padding-right: 20px;">
+<img src="./assets/header.svg" alt="Tanya Chhikara" width="100%" />
 
-# Hi there 👋, I'm Tanya Chhikara
-
-### 💫 About Me
-- 🌱 I am practising **problem solving, Data Structures and Algorithms**  
-- 💬 I love to **design posters and listening to music**  
-- 📫 Reach out to me at tanyachhikara24@gmail.com  
-- 📝 Read my blogs here: [A guide to Web Scraping](https://zepanalytics.com/blogs/a-guide-to-web-scraping-an-example-hindi-news-website)  
-- ⚡ Fun fact: **I can vibe to sad songs 🎧**
+<a href="https://linkedin.com/in/tanyachhikara24"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn" /></a>
+<a href="https://www.kaggle.com/tanyachhikara"><img src="https://img.shields.io/badge/KAGGLE-ffffff?style=flat-square&logo=kaggle&logoColor=000000" alt="Kaggle" /></a>
+<a href="mailto:tanyachhikara24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email" /></a>
 
 </div>
 
-<div style="flex: 1; min-width: 200px; text-align: center; margin-top: 10px;">
-<img width="250" src="https://github.com/TanyaChhikara/TanyaChhikara/blob/main/lottie-000_1_1.gif">
-</div>
+<br />
 
-</div>
-<!--
-### 📌 Languages and Tools
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> 
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://icongr.am/simple/canva.svg?size=128&color=17bee8&colored=false" alt="canva" width="40" height="40"/></a>
-</p>
--->
+<img src="./assets/s01.svg" alt="01 — whoami" width="100%" />
+<img src="./assets/whoami.svg" alt="About Tanya" width="100%" />
 
-### 📊 GitHub Stats
+<br /><br />
+
+<img src="./assets/s02.svg" alt="02 — projects" width="100%" />
+
 <p align="center">
-  <a href="https://github.com/TanyaChhikara">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanyaChhikara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;">
-  </a>
+  <a href="https://github.com/TanyaChhikara/RegDelta-Regulatory-Change-Impact-Analyzer"><img src="./assets/project-regdelta.svg" alt="RegDelta" width="49%" /></a>
+  <a href="https://github.com/TanyaChhikara/Detecting_Social_and_Politicla_Bias_in_Hindi_Media"><img src="./assets/project-hindi-bias.svg" alt="Hindi Media Bias" width="49%" /></a>
+  <a href="https://github.com/TanyaChhikara/Auto_Encoders_for_Crowd_Density_Estimation"><img src="./assets/project-crowd-density.svg" alt="Crowd Density" width="49%" /></a>
+  <a href="https://github.com/TanyaChhikara/TriNayan"><img src="./assets/project-trinayan.svg" alt="TriNayan" width="49%" /></a>
 </p>
 
-### 🌐 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/tanyachhikara24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@tanyachhikara24" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://www.kaggle.com/tanyachhikara" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2344BAE8.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<br />
+
+<img src="./assets/s03.svg" alt="03 — telemetry" width="100%" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanyaChhikara&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=7ee787&border_color=30363d" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaChhikara&layout=compact&langs_count=6&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=30363d" alt="Top languages" height="165" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanyaChhikara&bg_color=0d1117&color=8b949e&line=7ee787&point=e6edf3&area=true&area_color=7ee787&hide_border=true&radius=8&custom_title=CONTRIBUTION%20TELEMETRY" alt="Contribution graph" width="100%" />
+
+<br /><br />
+
+<img src="./assets/s04.svg" alt="04 — stack" width="100%" />
+<img src="./assets/stack.svg" alt="Tech stack" width="100%" />
+
+<br /><br />
+
+<img src="./assets/footer.svg" alt="Current status" width="100%" />
