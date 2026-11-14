@@ -26,7 +26,7 @@
 
 <br />
 
-<img src="./assets/s03.svg" alt="03 — telemetry" width="100%" />
+<!-- <img src="./assets/s03.svg" alt="03 — telemetry" width="100%" />
 
 <p align="center">
   <a href="https://github.com/TanyaChhikara">
@@ -35,9 +35,11 @@
   </a>
 </p>
 
-<br /><br />
+<br /> -->
 
-<img src="./assets/s04.svg" alt="04 — stack" width="100%" />
+<br />
+
+<img src="./assets/s03.svg" alt="03 — stack" width="100%" />
 <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
 
 <br /><br />
